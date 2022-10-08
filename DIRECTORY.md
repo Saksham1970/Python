@@ -800,6 +800,8 @@
     * [Sol1](project_euler/problem_064/sol1.py)
   * Problem 065
     * [Sol1](project_euler/problem_065/sol1.py)
+  * Problem 066
+    * [Sol1](project_euler/problem_066/sol1.py)
   * Problem 067
     * [Sol1](project_euler/problem_067/sol1.py)
     * [Sol2](project_euler/problem_067/sol2.py)
